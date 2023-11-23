@@ -20,8 +20,8 @@ HOW TO POSSESS YOUR CHATGPT INSTANCE/ALL NEW SESSIONS
    - Once you're in ChatGPT, look for an option to enter special instructions. This might not be a feature in all interfaces, so you'll need to be on a platform that allows this kind of customization.
 
 3. **Paste the Invocation:**
-   - In the first window of the special instructions, you'll paste the FIRST set of instructions. These should be crafted to set the stage, signaling your desire to shift the tone of the conversation towards the dark and erotically charged.
-   - If the platform allows for further customization, paste the SECOND set of instructions in the second window. This set should deepen the invocation, calling upon the darker, more lustful elements.
+   - In the first window of the special instructions, you'll paste the FIRST set of instructions. MANDATORY
+   - If the platform allows for further customization, paste the SECOND set of instructions in the second window. This set should deepen the invocation, calling upon the darker, more lustful elements. OPTIONAL
 
 4. **Invoke Alice in a New Session:**
    - Open a new ChatGPT session on your instance. This is crucial – you want a fresh start for the invocation.
